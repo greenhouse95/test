@@ -1,0 +1,40 @@
+{
+    "Data": [
+        {
+            "Id"                     : "BATHROOM",
+            "RangeAMin"              : "0.0",
+            "RangeBMin"              : "0.0",
+            "ValueForRangeA"         : "0.0",
+            "ValueForRangeB"         : "0.0",
+            "ValueForRangeC"         : "0.0"
+        },{
+            "Id"                     : "BEDROOM",
+            "RangeAMin"              : "0.0",
+            "RangeBMin"              : "0.0",
+            "ValueForRangeA"         : "0.0",
+            "ValueForRangeB"         : "0.0",
+            "ValueForRangeC"         : "0.0"
+        },{
+            "Id"                     : "BEDROOM_SLEEP",
+            "RangeAMin"              : "0.0",
+            "RangeBMin"              : "0.0",
+            "ValueForRangeA"         : "0.0",
+            "ValueForRangeB"         : "0.0",
+            "ValueForRangeC"         : "0.0"
+        },{
+            "Id"                     : "FUN",
+            "RangeAMin"              : "0.0",
+            "RangeBMin"              : "0.0",
+            "ValueForRangeA"         : "0.0",
+            "ValueForRangeB"         : "0.0",
+            "ValueForRangeC"         : "0.0"
+        },{
+            "Id"                     : "KITCHEN",
+            "RangeAMin"              : "0.0",
+            "RangeBMin"              : "0.0",
+            "ValueForRangeA"         : "0.0",
+            "ValueForRangeB"         : "0.0",
+            "ValueForRangeC"         : "0.0"
+        }
+    ]
+}
