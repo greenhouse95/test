@@ -1,0 +1,10 @@
+{
+	"EntryRoomName": "Fun",
+	"ReplaceGirlTextureWaitTime" : 0.1,
+	
+	"PokeDialogueCounter"  : 10,
+	"PokeDelayCounterTime" : 0.0,
+	"PokeMinEnergyValue"   : 0.0,
+	"PokeEnergyDecrease"   : 0.00,
+	"PokeFunIncrease"      : 10.00
+}
