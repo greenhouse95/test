@@ -1,0 +1,33 @@
+{
+    "Data": [
+        {
+            "RelationshipLevel"     : 0,
+			"KitchenActionTime"   : 0,
+			"BathroomActionTime"   : 0
+        },        {
+            "RelationshipLevel"     : 1,
+			"KitchenActionTime"   : 0,
+			"BathroomActionTime"   : 0
+        },        {
+            "RelationshipLevel"     : 2,
+			"KitchenActionTime"   : 0,
+			"BathroomActionTime"   : 0
+        },        {
+            "RelationshipLevel"     : 3,
+			"KitchenActionTime"   : 0,
+			"BathroomActionTime"   : 0
+        },        {
+            "RelationshipLevel"     : 4,
+			"KitchenActionTime"   : 0,
+			"BathroomActionTime"   : 0
+        },        {
+            "RelationshipLevel"     : 5,
+			"KitchenActionTime"   : 0,
+			"BathroomActionTime"   : 0
+        },        {
+            "RelationshipLevel"     : 6,
+			"KitchenActionTime"   : 0,
+			"BathroomActionTime"   : 0
+        }
+    ]
+}
