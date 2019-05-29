@@ -1,0 +1,1 @@
+{"code":200,"status":"OK","data":{"FunctionName":"PurchaseTimeWarp","Revision":42,"FunctionResult":{"ItemId":"TW4","Amount":50,"CurrencyAmount":258,"CurrencyUsed":0,"CurrencyCode":"GM"},"Logs":[],"ExecutionTimeSeconds":0.0639457,"ProcessorTimeSeconds":0.0,"MemoryConsumedBytes":45136,"APIRequestsIssued":3,"HttpRequestsIssued":0}}
