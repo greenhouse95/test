@@ -1,1 +1,1 @@
-{"CatalogVersion":"Ingame","CharacterId":null,"ItemId":"Scout_TORSO_BasicBrown","Price":0,"StoreId":"DailyShop0","VirtualCurrency":"FE","AuthenticationContext":null}
+{"code":200,"status":"OK","data":{"Items":[{"ItemId":"Brave_LEGS_BasicBrown","ItemInstanceId":"9AF8657731893F64","ItemClass":"Customization","PurchaseDate":"2019-10-24T18:24:54.14Z","CatalogVersion":"Ingame","DisplayName":"Brave LEGS","UnitCurrency":"FE","UnitPrice":75}]}}
